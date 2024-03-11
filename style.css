@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 190px;
+    margin-bottom: 120px;
+    border: 34px;
+    background-image: url(https://i.pinimg.com/originals/75/db/93/75db931bc72e62c30f7f306a6d239bac.jpg);
+    color: rgb(255, 7, 7);
+    text-shadow: 0 0 12px #043db8, 0 0 20px #045701, 0 0 30px #1437ff, 0 0 40px #ff0404, 0 0 70px #ff0404;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+   
+
+}
+
+.script {
+   border: #ff1212;
+}
+
+table{
+    margin: auto;
+}
